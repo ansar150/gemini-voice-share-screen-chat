@@ -1,25 +1,25 @@
 # Gemini Voice & Screen Chat
 
-Yeh ek Python application hai jo aapko Google ke Gemini AI model se awaaz aur screen share ke zariye baat karne ki sahulat deta hai.
+This is a Python application that allows you to interact with Google's Gemini AI model using your voice and by sharing your screen.
 
-### Features (Khususiyat)
-*   Gemini ke saath real-time mein awaaz se baat-cheet.
-*   Behtar guftagu ke liye screen sharing ki sahulat.
-*   Multiple API keys istemal karne ki taseeh.
-*   Awaz band (Mute) aur stream rokne (Pause) ke controls.
+### Features
+*   Real-time voice conversation with Gemini.
+*   Screen sharing for better context during your conversation.
+*   Support for using multiple API keys.
+*   Controls to Mute your microphone and Pause the stream.
 
-### Kaise Install Karein:
-1.  Yaqeeni banayein ke aapke paas Python 3.9+ install hai.
-2.  Apne computer ke terminal ya command prompt mein is folder ko kholein.
-3.  Yeh command chalayein: `pip install -r requirements.txt`
+### How to Install:
+1.  Make sure you have Python 3.9+ installed.
+2.  Open your terminal or command prompt in this project's folder.
+3.  Run this command: `pip install -r requirements.txt`
 
-### Kaise Istemal Karein:
-1.  Isi folder mein `api.txt` ke naam se ek nayi text file banayein.
-2.  Apni Google AI Studio ki API keys is file mein paste karein (har key ek nayi line par).
-3.  Application chalane ke liye yeh command likhein: `python app.py`
+### How to Use:
+1.  Create a new text file named `api.txt` in the same folder.
+2.  Paste your Google AI Studio API keys into this file (one key per line).
+3.  Run the application with this command: `python app.py`
 
-### Is Project Ko Sponsor Karein
-Agar aapko yeh project pasand aaya hai aur aap iski mazeed behtari mein madad karna chahte hain, to please mujhe sponsor karein.
+### Sponsor This Project
+If you like this project and want to support its future development, please consider sponsoring me.
 
-**Rabta:**
-Agar aapka koi sawal hai to aap mujhe ytautofy@gmail.com par email kar sakte hain ya +923075811194 par WhatsApp kar sakte hain.
+**Contact:**
+If you have any questions, you can email me at ytautofy@gmail.com or contact me on WhatsApp at +923075811194.
