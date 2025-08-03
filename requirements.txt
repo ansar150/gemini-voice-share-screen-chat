@@ -1,0 +1,5 @@
+google-generativeai
+pyaudio
+Pillow
+mss
+opencv-python
